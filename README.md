@@ -1,5 +1,5 @@
-# Amazon_Vine_Analysis
-*Analysis with Pyspark and AWS* 
+# Amazon_Vine_Analysis :camping::torch::Flashlight::fire:
+*Analysis with Pyspark and AWS on Outdoor Products* 
 ## Project Overview 
 ****************************************************************************************************
 For this project we are using Amazon's reviews for a catagory of outdoor products.  The purpose of the analysis is to determine if there is any bias torward favorable reviews from Vine members.  Amazon Vine program is a service that allows manufacturers to have reviews posted on Amazon for their pre-release items, for an additional fee.       
