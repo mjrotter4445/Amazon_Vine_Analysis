@@ -67,25 +67,24 @@ Figure 3- 5-star Vine and non-Vine review breakdown by % Percentages
 
 ## Summary
 
-The purpose of this analysis is to analyze and determine if there is any bias 
-toward favorable reviews from Vine members in the dataset.  Our analysis reveals 
-that more than 20 total votes and the percentage of helpful votes is equal or great 
-than 50.  This selection was made in order to pick reviews that are more likely to 
-be helpful.   
+The purpose of this analysis is to analyze and determine bias of Vine Reviews on Outdoor Products. 
+We will explore if there is any bias toward favorable reviews from Vine members in the dataset. We selected products
+with more than 20 total votes and a percentage of helpful votes is equal or greater than 50.  
+This selection was made in order to pick reviews that are more likely to be helpful and have good information.   
 
 **Positivity bias for reviews in the Vine Program**
-In the analysis, we analyze 5-star review within conditions mentioned above.  
+In the analysis, we analyze 5-star review from the selection set described above.  
 Calculations show that there is **no positivity bias for reveiws in the vine 
 program.**  The results show that 5-star views from Vine members is 52.34% and the 
 5-star reviews from non-Vine members was 52.69%.  The Non-vine reviews has a 
-slightly higher percentage of the 5-star reviews, but not significant.  
+*slightly* higher percentage of the 5-star reviews, but not significant.  
 
 **Additional analysis that could be performed**
 We could expand this analysis by calculating percentage for all stars reviews.  
 Based on the results in Figure 4 below, there is a larger difference in percentage for 1-star
-reviews than for 5-star reviews.    Vine reviews have only 0.93% of 1-star reviews, while non-vine 
-reviews have 13.35% 1-star reivews within conditions mentioned above.  similarly, there 
-is a 1.87% 2-stars Vine reviews and 6.05% 2-star non-vine reviews.  
+reviews than for 5-star reviews between Vine and non-Vine reviewers. Vine reviews have 
+only 0.93% of 1-star reviews, while non-vine reviews have 13.35% 1-star reivews within 
+the selected data mentioned above.  Similarly, there is a 1.87% 2-stars Vine reviews and 6.05% 2-star non-vine reviews.  
 
 <p align="center">
   <img width="800" height=200" src="https://github.com/mjrotter4445/Amazon_Vine_Analysis/blob/main/Challenge%20work/Graphics/fig%204%20bothV%20and%20nonV.jpg">
@@ -95,9 +94,11 @@ Figure 4- Summary of star reviews - 2 charts side by side Vine and non-Vine
 </p>
 
 Another idea for analyis could be to do a deeper dive to find out when and if reviews impact
-sales as the product life cycle progresses.  On the Amazon Vine homepage, a description 
-encourages "their most trusted reviews" on amazon to post opinions abuot the new and pre-release items
-to aid in product launch and marketing.   It would be interesting to know if these reviews had a direct
-impace or correlation as the sales are tracked over time.   
+sales as the product life cycle progresses, especially repeat purchasers, like myself.  On the 
+Amazon Vine homepage, a description encourages "their most trusted reviews" on amazon to post opinions about 
+the new and pre-release items to guide marketing and product launch strategies.   It would be interesting to 
+know if these reviews had a direct impact or correlation as the sales are tracked over time.   Also, it would
+be interesting to know if repeat customers would provide additional reviews to help increase sales.  Many promotional
+opportunities could be developed from this data.   
 
 
