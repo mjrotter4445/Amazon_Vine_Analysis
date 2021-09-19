@@ -26,7 +26,7 @@ There were
 -  39,869 non-Vine reviews
 
 <p align="center">
-  <img width="200" height=300" src="https://github.com/mjrotter4445/Amazon_Vine_Analysis/blob/main/Challenge%20work/Graphics/fig%201%20total%20vine%20and%20non.jpg">
+  <img width="200" height=100" src="https://github.com/mjrotter4445/Amazon_Vine_Analysis/blob/main/Challenge%20work/Graphics/fig%201%20total%20vine%20and%20non.jpg">
 </p>
 <p align="center">
 Figure 1-Total Vine and non-Vine reviews by Count
