@@ -8,8 +8,8 @@ For this project we are using Amazon's reviews for a catagory of outdoor product
 -  **Google Colab**  Vine_Review_Analysis.ipynb
 -  **PGAdmin**  Vine_Review_Analysis.ipynb
 -  **AWS** Amazon_Reviews_ETL.ipynb
--         S3 Buckets
--         RDS Databases and Connections
+  -  S3 Buckets
+  -  RDS Databases and Connections
 
 #### Languages: 
 -  **PySpark**  
