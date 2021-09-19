@@ -73,9 +73,9 @@ with more than 20 total votes and a percentage of helpful votes is equal or grea
 This selection was made in order to pick reviews that are more likely to be helpful and have good information.   
 
 **Positivity bias for reviews in the Vine Program**
-In the analysis, we analyze 5-star review from the selection set described above.  
+In the analysis, we analyze 5-star reviews from the selection set described above.  
 Calculations show that there is **no positivity bias for reveiws in the vine 
-program.**  The results show that 5-star views from Vine members is 52.34% and the 
+program.**  The results show that 5-star reviews from Vine members is 52.34% and the 
 5-star reviews from non-Vine members was 52.69%.  The Non-vine reviews has a 
 *slightly* higher percentage of the 5-star reviews, but not significant.  
 
