@@ -13,7 +13,7 @@ For this project we are using Amazon's reviews for a catagory of outdoor product
 -  **PySpark**  
 
 ## Results
-****************************************************************************************************
+
 In this analysis we analyze reviews taht have more than 
 20 total votes and the percentage of the helpful votes is 
 equal or greater than 50.   
@@ -68,7 +68,7 @@ Figure 3- 5-star Vine and non-Vine review breakdown by Percentages
 </p>
 
 ## Summary
-****************************************************************************************************
+
 The purpose of this analysis is to analyze and determine if there is any bias 
 toward favorable reviews from Vine members in the dataset.  Our analysis reveals 
 that more than 20 total votes and the percentage of helpful votes is equal or great 
