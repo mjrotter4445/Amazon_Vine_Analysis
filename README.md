@@ -46,7 +46,7 @@ Question #2b - **How many non-Vine reviews were 5-stars? (counts)**
 -  21,005 total 5-star non-Vine reviews (counts)
 
 <p align="center">
-  <img width="200" height=100" src="https://github.com/mjrotter4445/Amazon_Vine_Analysis/blob/main/Challenge%20work/Graphics/fig%202%205st%20count%20vine%20and%20non.jpg">
+  <img width="200" height=100" src="xxxx">
 </p>
 <p align="center">
 Figure 2- 5-star Vine and non-Vine reviews by Count
