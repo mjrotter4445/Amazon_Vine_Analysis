@@ -26,10 +26,10 @@ equal or greater than 50**. We are using the powerful Amazon Web Services (AWS) 
 Question # 1a - **How many Vine reviews were there?** 
 Question # 1b - **How many non-Vine reviews were there?** 
 
-There were
+**In summary(counts),**
 -   107 Vine reviews and 
 -  39,869 non-Vine reviews
-
+-  
 <p align="center">
   <img width="300" height="75" src="https://github.com/mjrotter4445/Amazon_Vine_Analysis/blob/main/Challenge%20work/Graphics/fig%201%20total%20vine%20and%20non.jpg">
 </p>
@@ -37,18 +37,12 @@ There were
 Figure 1-Total Vine and non-Vine reviews by Count
 </p>
 
-**In summary(counts),**
--   107 Vine reviews and 
--  39,869 non-Vine reviews
-
-
 Question #2a - **How many Vine reviews were 5-stars? (counts)**
-
 Question #2b - **How many non-Vine reviews were 5-stars? (counts)**
 
 **In summary (counts),**
--   56 total 5-star Vine reviews (counts) and 
--  21,005 total 5-star non-Vine reviews (counts)
+-   56 total 5-star Vine reviews and 
+-  21,005 total 5-star non-Vine reviews 
 
 <p align="center">
   <img width="300" height="75" src="https://github.com/mjrotter4445/Amazon_Vine_Analysis/blob/main/Challenge%20work/Graphics/fig%202%205st%20count%20vine%20and%20non.jpg">
@@ -58,18 +52,17 @@ Figure 2- 5-star Vine and non-Vine reviews by Count
 </p>
 
 Question #3a - **How many Vine reviews were 5-stars? (%)**
-
 Question #3b - **How many non-Vine reviews were 5-stars? (%)**
 
-**In summary (counts),**
+**In summary (% Percentage),**
 -   52.34% were Vine reviews were 5-star and 
--   52.69% were non-Vine reviews (%)
+-   52.69% were non-Vine reviews 
 
 <p align="center">
   <img width="300" height="75" src="https://github.com/mjrotter4445/Amazon_Vine_Analysis/blob/main/Challenge%20work/Graphics/fig%203%20perc%20of%205star%20vine%20and%20non.jpg">
 </p>
 <p align="center">
-Figure 3- 5-star Vine and non-Vine review breakdown by Percentages
+Figure 3- 5-star Vine and non-Vine review breakdown by % Percentages
 </p>
 
 ## Summary
