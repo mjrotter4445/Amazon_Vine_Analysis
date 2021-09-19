@@ -1,4 +1,4 @@
-# Amazon_Vine_Analysis :camping::torch::Flashlight::fire:
+# Amazon_Vine_Analysis :camping::compass::fire:
 *Analysis with Pyspark and AWS on Outdoor Products* 
 ## Project Overview 
 ****************************************************************************************************
