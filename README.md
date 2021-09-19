@@ -2,26 +2,29 @@
 *Analysis with Pyspark and AWS on Outdoor Products* 
 ## Project Overview 
 
-For this project we are using Amazon's reviews for a catagory of outdoor products.  The purpose of the analysis is to determine if there is any bias torward favorable reviews from Vine members.  Amazon Vine program is a service that allows manufacturers to have reviews posted on Amazon for their pre-release items, for an additional fee.       
+For this project we are using Amazon's reviews for a catagory of outdoor products.  The purpose of the analysis is to determine if there is any bias torward favorable reviews from **Vine members.  Amazon Vine program** is a service that allows manufacturers to have reviews posted on **Amazon** for their pre-release items, for an additional fee. 
+I am most interested in and selected Outdoor Products.  I am a frequent customer of Outdoor Products because I live in Colorado and love to try new products when we camp, bike, hike, and enjoy the outdoors.   Oten times, I buy myself and my family a new item and if we like it, I buy a few more for gifts for family.  We all love Outdoor Products! 
 
-#### Software: 
+#### Software Used: 
 -  **Google Colab**  Vine_Review_Analysis.ipynb
 -  **PGAdmin**  Vine_Review_Analysis.ipynb
 -  **AWS** Amazon_Reviews_ETL.ipynb
     -  S3 Buckets
     -  RDS Databases and Connections
 
-#### Languages: 
+#### Languages & Libraries Used: 
 -  **PySpark**  
 
 ## Results
 
-In this analysis we analyze reviews taht have more than 
-20 total votes and the percentage of the helpful votes is 
-equal or greater than 50.   
-***We can ask and answer the following questions:*** 
+In this analysis we select and analyze reviews that have **more than 
+20 total votes** and the **percentage of the helpful votes is 
+equal or greater than 50**. We are using the powerful Amazon Web Services (AWS) to retreive the data.  Over 2M records are retreived into our Postgres DB.   
 
-Question # 1- **How many Vine reviews were there?**  
+***Next, we can ask and answer the following questions:*** 
+
+Question # 1a - **How many Vine reviews were there?** 
+Question # 1b - **How many non-Vine reviews were there?** 
 
 There were
 -   107 Vine reviews and 
