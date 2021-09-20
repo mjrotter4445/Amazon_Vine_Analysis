@@ -3,7 +3,7 @@
 ## Project Overview 
 
 For this project we are using Amazon's reviews for a catagory of outdoor products.  The purpose of the analysis is to determine if there is any bias torward favorable reviews from **Vine members.  Amazon Vine program** is a service that allows manufacturers to have reviews posted on **Amazon** for their pre-release items, for an additional fee. 
-I am most interested in and selected Outdoor Products.  I am a frequent customer of Outdoor Products because I live in Colorado and love to try new products when we camp, bike, hike, and enjoy the outdoors.   Oten times, I buy myself and my family a new item and if we like it, I buy a few more for gifts for family.  We all love Outdoor Products! 
+I am most interested in and selected Outdoor Products.  I am a frequent customer of Outdoor Products because I live in Colorado and love to try new products when we camp, bike, hike, and enjoy the outdoors.   Often times, I buy myself and my family a new outdoor item to test and if we like it, I buy a few more for gifts for family.  We all love Outdoor Products! 
 
 #### Software Used: 
 -  **Google Colab**  Vine_Review_Analysis.ipynb
