@@ -90,7 +90,7 @@ reviews have 13.35% 1-star reivews within conditions mentioned above.  similarly
 is a 1.87% 2-stars Vine reviews and 6.05% 2-star non-vine reviews.  
 
 <p align="center">
-  <img width="200" height=50" src="figure4aandb">
+  <img width="200" height=50" src="https://github.com/mjrotter4445/Amazon_Vine_Analysis/blob/main/Challenge%20work/Graphics/fig%204%20bothV%20and%20nonV.jpg">
 </p>
 <p align="center">
 Figure 2- Summary of star reviews - 2 charts side by side Vine and non-Vine
